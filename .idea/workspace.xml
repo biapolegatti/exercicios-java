@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab6b0bd6-c857-4f5d-91b8-84b867ccbcc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Bia_Polegatti.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/CalculaDistancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/ComparacaoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Divisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/ImprimeBandeiraAmericana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/ImprimeNome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/ImprimeRosto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/MultiplasFuncoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/ReverteString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/SomaBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/SomaDigitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Tabuada.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29FN1K5RSwH9OfAGjf2csz19Qwr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.basicos.ReverteString">
+    <configuration name="basicos.CalculaDistancia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicos.CalculaDistancia" />
+      <module name="exercicios-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicos.ComparacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicos.ComparacaoNumeros" />
+      <module name="exercicios-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicos.ReverteString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicos.ReverteString" />
+      <module name="exercicios-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicos.SomaBinario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicos.SomaBinario" />
+      <module name="exercicios-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicos.SomaDigitos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicos.SomaDigitos" />
+      <module name="exercicios-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.basicos.ReverteString" />
+        <item itemvalue="Application.basicos.CalculaDistancia" />
+        <item itemvalue="Application.basicos.SomaDigitos" />
+        <item itemvalue="Application.basicos.ComparacaoNumeros" />
+        <item itemvalue="Application.basicos.SomaBinario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab6b0bd6-c857-4f5d-91b8-84b867ccbcc4" name="Changes" comment="" />
+      <created>1652704658303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652704658303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
