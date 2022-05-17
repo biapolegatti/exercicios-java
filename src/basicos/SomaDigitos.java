@@ -7,20 +7,20 @@ public class SomaDigitos {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        int primeiroNumero;
+        int numero;
 
         System.out.println("Informe o número inteiro que você deseja somar os dígitos: ");
-        primeiroNumero = entrada.nextInt();
+        numero = entrada.nextInt();
 
-        System.out.println("A soma dos algarismos é: " + somaAlgarismos(primeiroNumero));
+        System.out.println("A soma dos algarismos é: " + somaAlgarismos(numero));
 
     }
 
-    public static int somaAlgarismos(int primeiroNumero) {
+    public static int somaAlgarismos(int numero) {
         int soma = 0;
-        while (primeiroNumero != 0) {
-            soma += primeiroNumero % 10;
-            primeiroNumero /= 10;
+        while (numero != 0) {
+            soma += numero % 10;
+            numero /= 10;
         }
         return soma;
     }
